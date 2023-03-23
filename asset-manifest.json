@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Admin_Dashboard.git/static/css/main.76d87ca3.css",
+    "main.js": "/Admin_Dashboard.git/static/js/main.8d4ad891.js",
+    "static/js/787.53f39b03.chunk.js": "/Admin_Dashboard.git/static/js/787.53f39b03.chunk.js",
+    "static/media/1.jpg": "/Admin_Dashboard.git/static/media/1.17a71a26df66ed989fdd.jpg",
+    "service-worker.js": "/Admin_Dashboard.git/service-worker.js",
+    "index.html": "/Admin_Dashboard.git/index.html",
+    "main.76d87ca3.css.map": "/Admin_Dashboard.git/static/css/main.76d87ca3.css.map",
+    "main.8d4ad891.js.map": "/Admin_Dashboard.git/static/js/main.8d4ad891.js.map",
+    "787.53f39b03.chunk.js.map": "/Admin_Dashboard.git/static/js/787.53f39b03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76d87ca3.css",
+    "static/js/main.8d4ad891.js"
+  ]
+}
